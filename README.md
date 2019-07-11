@@ -1,1 +1,74 @@
-# kevin102505.github.io
+# kevin102505.github.io<!DOCTYPE html>
+<html>
+<head>
+<title>My Blog</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+ <div id="header">
+  <div class="container">
+   <a id="header-title" href="index.html">My Blog</a>
+    <ul id="header-nav">
+    <li><a href="about.html">About</a></li>
+    <li><a href="mailto:kevinrubio102505@gmail.com">Contact</a></li>
+    </ul>
+   </div>
+  </div>
+      <div id="content">
+      <div class="container">
+      </div>
+      </div>
+       <div id="content">
+         <div class="container">
+           <div class="post">
+             <div class="post-author">
+               <img src="mom.jpeg">
+               <span>My mom</span>
+             </div>
+             <p class="post-date">Today</p>
+             <h4 class="post-title">Is my child a podigy?</h4>
+             <div class="post-content">
+             <p>If somebody would have told me a week ago that my son would be able to make a <strong>website</strong>, I would not have belived him.
+             </p>
+             <p>Just a few days later, he came across <a href="https://getmimo.com">Mimo</a> and started to work on a <em>real</em> blog.
+             </p>
+           </div>
+          </div>
+         </div>
+         <div class="container"> ... </div>
+        </div>
+      <div id="content">
+        <div class="container">
+          <div class="post">
+            <div class="post-author">
+              <img src="me.jpeg">
+              <span>Me</span>
+            </div>
+            <p class="post-date">Today</p>
+            <h3 class="post-title">Becoming a web developer</h3>
+            <div class="post-content">
+            <p>If somebody told me that I would be able to create a <strong>website</strong> a couple days ago I would have not belive them.
+            </p>
+            <p>Just a few days later, I came across <a href="https://getmimo.com">Mimo</a> and started to work on a <em>real</em> blog.
+            </p>
+            <div id="footer">
+              <div class="container">
+                <div class="colunm">
+                  <h4>My Links</h4>
+                  <p>
+                    <a href="https://twitter.com/@kevin102505">Twitter</a><br>
+                    <a href="https://instagram.com/kevinrubio102505">Instagram</a>
+                  </p>
+                </div>
+                <div class="colunm">
+                  <h4>My Story</h4>
+                  <p>Hello there! I'm an aspiring web developer.</p>
+               </div>
+              </div>
+             </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </body>
+     </html>
